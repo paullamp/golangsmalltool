@@ -226,7 +226,7 @@ func (si *SystemInfo) AllInfo() {
 	fmt.Println("Memory:", si.Memory)
 	fmt.Println("CpuType:", si.CpuType)
 	fmt.Println("CpuNum:", si.CpuNum)
-	fmt.Println("GitTest New 2")
+	fmt.Println("GitTest New 2 3")
 }
 
 func main() {
