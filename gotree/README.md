@@ -6,6 +6,14 @@
 3. go install 
 
 ### how to use
+gotree -h :查看帮助文件
+~~~ go
+gotree -h
+Usage of gotree:
+  -maxlevel int
+    	level want to show (default -1)
+
+~~~
 
 gotree 
 显示所有内容
